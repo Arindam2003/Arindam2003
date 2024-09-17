@@ -70,7 +70,7 @@
 
 <hr/>
 
-[![@theAlphaGuardian's Holopin board](https://holopin.me/theAlphaGuardian)](https://holopin.io/@theAlphaGuardian)
+<img align="center" src="https://github.com/Arindam2003/Arindam2003/blob/main/needed/imggit.png">
 <hr/>
 
 <!-- [![Arindam2003's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Arindam2003&theme=xcode)](https://git.io/Arindam2003)
