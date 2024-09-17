@@ -10,7 +10,7 @@
   <ul type="none">
     <li>🔭 I’m currently studying at <a href="https://uem.edu.in/uem-kolkata/">💻 IEM,Newtown</a>,</li>
     <li>👯 I’m looking to collaborate on....</li>
-    <li>💬 Ask me about anythin 😁</li>
+    <li>💬 Ask me about anything 😁</li>
   </ul>
 </p>
   <!--<a href="https://www.buymeacoffee.com/joerasa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">--</a>-->
@@ -60,7 +60,7 @@
 <hr/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" alt="Arindam2003"/>
 </p>
 
 <p align="center">
