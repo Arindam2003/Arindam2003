@@ -60,7 +60,7 @@
 <hr/>
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
+<img src="https://streak-stats.demolab.com/?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" />
 </p>
 
 <p align="center">
