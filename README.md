@@ -60,8 +60,8 @@
 <hr/>
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" alt="Arindam2003"/>
-<!-- <img src="https://streak-stats.demolab.com?user=Arindam2003&theme=radical&border_radius=6.5)](https://git.io/streak-stats)" alt="Arindam2003"/> -->
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=Arindam2003&theme=hacker&hide_border=false&fire=FF0000&ring=D30000&currStreakNum=BEDD00&sideNums=BEDD00" alt="Arindam2003"/> -->
+<img src="https://streak-stats.demolab.com?user=Arindam2003&theme=radical&border_radius=6.5)](https://git.io/streak-stats)" alt="Arindam2003"/>
 <!-- <img src="https://streak-stats.demolab.com?user=Arindam2003&theme=violet-dark&border_radius=10)](https://git.io/streak-stats)" alt="Arindam2003"/> -->
 </p>
 
