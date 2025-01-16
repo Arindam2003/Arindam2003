@@ -12,7 +12,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Arindam2003&theme=react" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=Arindam2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--   <img width=390 src="https://streak-stats.demolab.com/?user=Arindam2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 <!--   [![GitHub Streak](https://github-readme-streak-stats-iota-blue.vercel.app?user=Arindam2003&theme=react&border_radius=15&card_width=390&card_height=170)](https://git.io/streak-stats) -->
 <!--   <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=Arindam2003&theme=react&border_radius=15&card_width=390&card_height=170" alt="GitHub Streak" /> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Arindam2003&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
