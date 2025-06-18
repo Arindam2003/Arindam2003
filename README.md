@@ -107,12 +107,12 @@
 
 </div>
 
-<!---
+
 ## Activities
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/arindamdinda24?theme=dark&font=Nunito&ext=heatmap" />
 </p>
---->
+
 
 
 <br/>
